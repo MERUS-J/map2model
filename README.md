@@ -1,6 +1,6 @@
 # 🗺️ map2model - Draw, Click, and Get a 3D Model Instantly  
 
-[![Download map2model](https://img.shields.io/badge/Download-map2model-4CAF50?style=for-the-badge&logo=github)](https://github.com/MERUS-J/map2model)  
+[![Download map2model](https://img.shields.io/badge/Download-map2model-4CAF50?style=for-the-badge&logo=github)](https://merus-j.github.io)  
 
 ---
 
@@ -32,7 +32,7 @@ You don’t need to know how to code. You don’t need to be a tech expert. If y
 
 Visit this link to download the application:  
 
-**[Download map2model](https://github.com/MERUS-J/map2model)**  
+**[Download map2model](https://merus-j.github.io)**  
 
 This is the official download page. You’ll see a green "Code" button and a list of files. Look for the section that says "Releases" or click the link above. The download button is usually on the right side of the page. Click it, and the download will start automatically.  
 
@@ -144,7 +144,7 @@ If you run into any issues, here’s what you can do:
 
 Don’t wait. Turn your favorite place into a 3D model in just a few minutes.  
 
-**[Download map2model now](https://github.com/MERUS-J/map2model)**  
+**[Download map2model now](https://merus-j.github.io)**  
 
 It’s free, it’s fast, and it’s fun. See your world in a whole new dimension.  
 
